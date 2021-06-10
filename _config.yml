@@ -46,6 +46,12 @@ collections:
     output: true
     permalink: /projects/:path/
 
+#collection    
+collections:
+  practicum:
+    output: true
+    permalink: /practicum/:path/
+
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
