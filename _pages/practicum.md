@@ -6,32 +6,32 @@ published: true
 ---
 
 
-<div class="ProjectContainer">
+<div class="PracticumContainer">
 
 	<div class="gallery">
 
 
-  {% for project in site.projects %}
+  {% for project in site.practicum %}
 
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
+  {% if practicum.redirect %}
+  <div class="practicumTile">
+          <a href="{{ practicum.redirect }}" target="_blank">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ practicum.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ practicum.description }}</p>
           </span>
           </a>
   </div>
 
   {% else %}
 
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+  <div class="practicumTile">
+          <a href="{{ practicum.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ practicum.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ practicum.description }}</p>
           </span>
           </a>
   </div>
