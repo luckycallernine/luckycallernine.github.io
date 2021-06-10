@@ -42,9 +42,6 @@ compress_html:
 
 #collection    
 collections:
- practicum:
-    output: true
-    permalink: /practicum/:path/
  projects:
     output: true
     permalink: /projects/:path/
