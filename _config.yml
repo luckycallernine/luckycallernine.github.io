@@ -46,7 +46,7 @@ collections:
     output: true
     permalink: /projects/:path/
     
-    #collection
+#collection
 collections:
   practicum:
     output: true
