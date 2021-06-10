@@ -42,9 +42,9 @@ compress_html:
 
 #collection
 collections:
-  practicum:
+  projects:
     output: true
-    permalink: /practicum/:path/
+    permalink: /projects/:path/
 
 sass:
   sass_dir: /assets/css/_sass
