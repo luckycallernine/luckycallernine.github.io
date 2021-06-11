@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Practicum Logs
-description: Click Here For Weekely Practicum Logs
+description: Click Here For Weekly Practicum Logs
 ---
 
 ### Week One ###
