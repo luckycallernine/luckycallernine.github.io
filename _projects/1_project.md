@@ -157,7 +157,8 @@ and images can be specified like so:
 
 ![example image](/assets/images/WeekOne.jpg "An exemplary image")
 
-<object data="{{ site.url }}/_images/weekone.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_images/weekone.pdf" width="800" height="800" type="application/pdf"></object>
+
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
