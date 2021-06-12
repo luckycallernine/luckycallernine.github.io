@@ -4,6 +4,6 @@ title: Familiarisation With Setting
 description: click here for familiarisation with setting
 ---
 
-### First Imprressions ###
+### First Impressions ###
 
 ### Final Reflections ###
