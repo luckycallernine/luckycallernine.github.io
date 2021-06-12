@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: Design for Learning
+description: click here for design for learning
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
